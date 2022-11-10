@@ -1,0 +1,9 @@
+{
+  "item.tutorialmod.custom_item": "Custom Item",
+  "block.tutorialmod.custom_block": "Custom Block",
+  "block.tutorialmod.gem_infusion_station": "Gem Infusion Station",
+  "block.tutorialmod.custom_chest": "Custom Chest",
+  "block.tutorialmod.custom_chest_large": "Custom Chest Large",
+  "block.tutorialmod.custom_furnace": "Custom Furnace",
+  "itemGroup.customtab": "Custom Tab"
+}
